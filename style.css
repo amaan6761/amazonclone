@@ -101,3 +101,57 @@ input{
     padding: 12px 328px 10px 0px ;
     
 }
+.nav-right{
+    height: 100%;
+    width: 383.86px;
+}
+.nav-tools{
+    height: 58px;
+    width: 100%;
+    margin: 2px 0px 0px;
+    padding: 3px 0px 0px;
+    display: flex;
+}
+.en{
+    height: 50px;
+    width: 73.38px;
+    margin-bottom: 1px;
+    padding: 0px 9px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flag{
+    height: 16.2px;
+    width: 21.6px;
+    margin-top: 20px;
+}
+.en-text{
+    height:15px ;
+    width: 18.38px ;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.en-icon{
+    height:4px ;
+    width: 8px;
+    margin-top: 14px;
+}
+.sign-in{
+    height: 50px;
+    width: 131.53px;
+    margin: 0px 0px 0px 2px;
+    padding: 0px 9px 10px;
+    /* text-align: center; */
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+
+}
+.returns{
+    height: 50px;
+    width: 76.95px;
+    margin: 0px 0px 0px 2px;
+    padding: 0px 9px 10px;
+    margin-top: 9px;
+}
